@@ -1,0 +1,1 @@
+# olymptrade-auto-signal
